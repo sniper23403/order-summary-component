@@ -25,16 +25,13 @@ Users should be able to:
 ### Screenshot
 ![Mobile View](Mobile%20View.png)
 
-![Desktop View] (Desktop view.png)
+![Desktop View](Desktop view.png)
 
-![Cancel active state]
-(Cancel Order active state.png)
+![Cancel active state](Cancel Order active state.png)
 
-![Change active state]
-(Change active state.png)
+![Change active state](Change active state.png)
 
-![Proceed Payement active state]
-(Proceed to payement active state.png)
+![Proceed Payement active state](Proceed to payement active state.png)
 
 ### Links
 
